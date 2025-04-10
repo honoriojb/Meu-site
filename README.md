@@ -1,8 +1,6 @@
-Claro! Aqui está um modelo de **README** para o seu site "Honorio Mundo Designer":
 
----
 
-# **README - Honorio Mundo Designer**
+# **Honorio Mundo Designer**
 
 ## **Descrição do Projeto**
 "Honorio Mundo Designer" é um site dedicado a apresentar e divulgar os serviços de design gráfico oferecidos por Honorio. O site foi desenvolvido para proporcionar aos clientes uma experiência única, facilitando a visualização do portfólio, o contato com o designer e a contratação de serviços personalizados.
@@ -59,6 +57,4 @@ O site é compatível com todos os navegadores modernos e dispositivos móveis. 
 ## **Licença**
 Este projeto é de propriedade exclusiva de **Honorio Mundo Designer**. Todos os direitos reservados.
 
----
 
-Esse modelo de README é uma base que descreve as funcionalidades e o objetivo do site, além de incluir informações importantes para quem estiver acessando ou conhecendo o projeto. Se você tiver mais detalhes ou recursos específicos, posso ajustar conforme necessário!
